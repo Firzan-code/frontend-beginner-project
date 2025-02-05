@@ -1,4 +1,12 @@
-# frontend-beginner-project
-https://firzan-code.github.io/frontend-beginner-project/
+
+## Frontend Beginner Project
+
+This is my solution for the roadmap.sh Frontend Beginner project.
+
+[🔗 View the project here](https://firzan-code.github.io/frontend-beginner-project/)  
+
 # URL Project
-https://roadmap.sh/projects/single-page-cv
+[🔗 View the project here]( https://roadmap.sh/projects/single-page-cv)  
+
+
+
